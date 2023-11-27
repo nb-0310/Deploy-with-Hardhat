@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.1",
+    "minimatch": "^9.0.3",
+    "run": "^1.4.0"
+  }
+}
